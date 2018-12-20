@@ -1,0 +1,11 @@
+<resources>
+    <!-- Basic strings -->
+    <string name="uox">UNORTHODOX</string>
+    <string name="app_name">3D Chess</string>
+
+    <!-- Sample strings -->
+    <!-- Texts -->
+    <!-- Button strings -->
+    <!-- Image descriptions -->
+    <string name="piece_description">This is a image for chess piece.</string>
+</resources>
